@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transition xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/LightGreen"/>
+    <item android:drawable="@color/lightorange"/>
+    <item android:drawable="@color/colorAccent"/>
+    <item android:drawable="@color/blue"/>
+    <item android:drawable="@color/deepBrown"/>
+    <item android:drawable="@color/green"/>
+    <item android:drawable="@color/silver"/>
+</transition>

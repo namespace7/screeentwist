@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="LightGreen">#d4efdf</color>
+    <color name="lightorange">#ec7063</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="blue">#3498db</color>
+    <color name="deepBrown">#c0392b</color>
+    <color name="green">#229954</color>
+    <color name="silver">#283747</color>
+
+</resources>
